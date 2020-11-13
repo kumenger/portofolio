@@ -1,0 +1,83 @@
+.c {
+  height: 50px;
+}
+.fa {
+  color: red;
+}
+@media only screen and (max-width: 768px)  {
+    h1 {
+        font-size: 1em;
+    }
+    p{
+      font-size: 12px;
+    }
+   
+  
+    
+    }
+    @media only screen and(max-width:992px){
+        h6 {
+             font-size: 1.2em;
+         }
+         p{
+           font-size: 14px;
+         }}
+
+.goog-logo-link {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
+#google_translate_element {
+  font-weight: bold;
+}
+
+p {
+  font-family: Roboto Mono;
+}
+body {
+  padding: 30px;
+  background-color: black;
+}
+.blinker {
+  animation: blin 3s linear infinite;
+  color: steelblue;
+}
+@keyframes blin {
+  50% {
+    opacity: 0;
+  }
+}
+ul li a {
+  font-size: 18px;
+}
+
+.alt {
+  color: #008040;
+  font-size: 18px;
+  font-weight: bold;
+}
+.vv {
+  padding: 10px;
+  background-color: steelblue;
+}
+.alt:hover {
+  color: royalblue;
+}
+
+.h {
+  height: 250px;
+}
+.blinke {
+  color: steelblue;
+}
+.Project-tile {
+  padding: 30px;
+  text-align: center;
+  display: block;
+}
+.v {
+  background-color: steelblue;
+}
