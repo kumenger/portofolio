@@ -37,10 +37,7 @@
 p {
   font-family: Roboto Mono;
 }
-body {
-  padding: 30px;
-  background-color: black;
-}
+
 .blinker {
   animation: blin 3s linear infinite;
   color: steelblue;
@@ -73,11 +70,7 @@ ul li a {
 .blinke {
   color: steelblue;
 }
-.Project-tile {
-  padding: 30px;
-  text-align: center;
-  display: block;
-}
+
 .v {
   background-color: steelblue;
 }
